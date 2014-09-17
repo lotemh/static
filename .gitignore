@@ -1,0 +1,13 @@
+atlassian-ide-plugin.xml
+*.log
+Thumbs.db
+*.iml
+*.ipr
+*.iws
+*.idea
+.idea
+.svn
+target/
+tags
+History.md
+*.class
